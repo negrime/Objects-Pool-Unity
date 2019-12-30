@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="40b5068b-1d2f-49e1-abbf-171d8c30caab" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/ObjectsPool.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="96" column="12" selection-start-line="96" selection-start-column="12" selection-end-line="96" selection-end-column="12" />
+              <folding>
+                <marker date="1577729493836" expanded="true" signature="6:92" ph="..." />
+                <marker date="1577729493836" expanded="true" signature="134:2822" ph="{...}" />
+                <marker date="1577729493836" expanded="true" signature="409:511" ph="{...}" />
+                <marker date="1577729493836" expanded="true" signature="537:741" ph="{...}" />
+                <marker date="1577729493836" expanded="false" signature="552:735" ph="Singleton" />
+                <marker date="1577729493836" expanded="true" signature="603:656" ph="{...}" />
+                <marker date="1577729493836" expanded="true" signature="669:716" ph="{...}" />
+                <marker date="1577729493836" expanded="true" signature="759:787" ph="{...}" />
+                <marker date="1577729493836" expanded="true" signature="806:827" ph="{...}" />
+                <marker date="1577729493836" expanded="true" signature="852:1330" ph="{...}" />
+                <marker date="1577729493836" expanded="true" signature="894:1324" ph="{...}" />
+                <marker date="1577729493836" expanded="true" signature="1022:1257" ph="{...}" />
+                <marker date="1577729493836" expanded="true" signature="1427:2391" ph="{...}" />
+                <marker date="1577729493836" expanded="true" signature="1472:1584" ph="{...}" />
+                <marker date="1577729493836" expanded="true" signature="1632:1766" ph="{...}" />
+                <marker date="1577729493836" expanded="true" signature="1779:2363" ph="{...}" />
+                <marker date="1577729493836" expanded="true" signature="1837:2117" ph="{...}" />
+                <marker date="1577729493836" expanded="true" signature="2461:2820" ph="{...}" />
+                <marker date="1577729493836" expanded="true" signature="2513:2692" ph="{...}" />
+                <marker date="1577729493836" expanded="true" signature="2705:2814" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Cube.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="15" column="10" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="10" />
+              <folding>
+                <marker date="1577729841543" expanded="true" signature="6:92" ph="..." />
+                <marker date="1577729841543" expanded="true" signature="127:403" ph="{...}" />
+                <marker date="1577729841543" expanded="true" signature="211:270" ph="{...}" />
+                <marker date="1577729841543" expanded="true" signature="312:401" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Spawner.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+              <folding>
+                <marker date="1577728895382" expanded="false" signature="6:78" ph="..." />
+                <marker date="1577728895382" expanded="true" signature="116:466" ph="{...}" />
+                <marker date="1577728895382" expanded="true" signature="188:249" ph="{...}" />
+                <marker date="1577728895382" expanded="true" signature="307:319" ph="{...}" />
+                <marker date="1577728895382" expanded="true" signature="344:464" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/ObjectsPool.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Spawner.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Cube.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/IPoolObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/Spawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/ObjectsPool.cs" />
+        <option value="$PROJECT_DIR$/Assets/Cube.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-280" />
+    <option name="y" value="395" />
+    <option name="width" value="1225" />
+    <option name="height" value="780" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="FileSystemExplorer" />
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-hidden-items" value="false" />
+        <option name="show-project-names" value="true" />
+      </pane>
+      <pane id="AssemblyExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor &amp; Play">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" pid="15032">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" value="15032" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" pid="15032">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" value="15032" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="40b5068b-1d2f-49e1-abbf-171d8c30caab" name="Default Changelist" comment="" />
+      <created>1577724075146</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577724075146</updated>
+      <workItem from="1577724080927" duration="5736000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5736000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1307847" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="NuGet" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Performance Profiler" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.2" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Unit Tests Coverage" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/IPoolObject.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Spawner.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+          <folding>
+            <marker date="1577728895382" expanded="false" signature="6:78" ph="..." />
+            <marker date="1577728895382" expanded="true" signature="116:466" ph="{...}" />
+            <marker date="1577728895382" expanded="true" signature="188:249" ph="{...}" />
+            <marker date="1577728895382" expanded="true" signature="307:319" ph="{...}" />
+            <marker date="1577728895382" expanded="true" signature="344:464" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ObjectsPool.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="96" column="12" selection-start-line="96" selection-start-column="12" selection-end-line="96" selection-end-column="12" />
+          <folding>
+            <marker date="1577729493836" expanded="true" signature="6:92" ph="..." />
+            <marker date="1577729493836" expanded="true" signature="134:2822" ph="{...}" />
+            <marker date="1577729493836" expanded="true" signature="409:511" ph="{...}" />
+            <marker date="1577729493836" expanded="true" signature="537:741" ph="{...}" />
+            <marker date="1577729493836" expanded="false" signature="552:735" ph="Singleton" />
+            <marker date="1577729493836" expanded="true" signature="603:656" ph="{...}" />
+            <marker date="1577729493836" expanded="true" signature="669:716" ph="{...}" />
+            <marker date="1577729493836" expanded="true" signature="759:787" ph="{...}" />
+            <marker date="1577729493836" expanded="true" signature="806:827" ph="{...}" />
+            <marker date="1577729493836" expanded="true" signature="852:1330" ph="{...}" />
+            <marker date="1577729493836" expanded="true" signature="894:1324" ph="{...}" />
+            <marker date="1577729493836" expanded="true" signature="1022:1257" ph="{...}" />
+            <marker date="1577729493836" expanded="true" signature="1427:2391" ph="{...}" />
+            <marker date="1577729493836" expanded="true" signature="1472:1584" ph="{...}" />
+            <marker date="1577729493836" expanded="true" signature="1632:1766" ph="{...}" />
+            <marker date="1577729493836" expanded="true" signature="1779:2363" ph="{...}" />
+            <marker date="1577729493836" expanded="true" signature="1837:2117" ph="{...}" />
+            <marker date="1577729493836" expanded="true" signature="2461:2820" ph="{...}" />
+            <marker date="1577729493836" expanded="true" signature="2513:2692" ph="{...}" />
+            <marker date="1577729493836" expanded="true" signature="2705:2814" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Cube.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="10" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="10" />
+          <folding>
+            <marker date="1577729841543" expanded="true" signature="6:92" ph="..." />
+            <marker date="1577729841543" expanded="true" signature="127:403" ph="{...}" />
+            <marker date="1577729841543" expanded="true" signature="211:270" ph="{...}" />
+            <marker date="1577729841543" expanded="true" signature="312:401" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
