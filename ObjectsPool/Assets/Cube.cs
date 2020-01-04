@@ -9,11 +9,11 @@ public class Cube : MonoBehaviour
 
     private void OnEnable()
     {
-        Invoke(nameof(DestroyPoolObject), 1f);
+        Invoke(nameof(DestroyPoolObject), 100f);
     }
 
     
-    public void DestroyPoolObject()
+    private void DestroyPoolObject()
     {
         ObjectsPool.PoolInstance.DestroyPoolObject("Cube", this.gameObject);
     }

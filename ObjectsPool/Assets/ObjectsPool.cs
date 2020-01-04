@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections;
 using System.Collections.Generic;
+using System.Linq;
 using UnityEngine;
 
 public class ObjectsPool : MonoBehaviour
@@ -13,8 +14,8 @@ public class ObjectsPool : MonoBehaviour
     [System.Serializable]
     public class ObjectPool
     {
-        public string Tag;
         public GameObject GameObject;
+        public string Tag;
         public int Size;
     }
 
@@ -37,16 +38,17 @@ public class ObjectsPool : MonoBehaviour
         Init();
     }
 
-    void Update()
-    {
-        
-    }
 
     private void Init()
     {
         foreach (var pool in Pools)
         {
             Queue<GameObject> queueObjects = new Queue<GameObject>();
+            if (pool.Tag == "")
+            {
+                Debug.LogWarning("PoolObject doesn't have Tag. Now tag equals: " + pool.GameObject.name);
+                pool.Tag = pool.GameObject.name;
+            }
             for (int i = 0; i < pool.Size; i++)
             { 
                 GameObject gameObject = Instantiate(pool.GameObject, transform.position, Quaternion.identity);
@@ -70,22 +72,21 @@ public class ObjectsPool : MonoBehaviour
             Debug.LogWarning("ObjectsPool don't have objects with a tag: " + tag + "!");
             return null;
         }
-        else
-        {
-            if (_poolDictionary[tag].Count < 2)
-            {
-                GameObject addGameObject = Instantiate(_poolDictionary[tag].Peek(), transform.position, Quaternion.identity);
-                addGameObject.SetActive(false);
-                _poolDictionary[tag].Enqueue(addGameObject);
-                
-            }
-            
-            GameObject gameObject = _poolDictionary[tag].Dequeue();
-            gameObject.transform.position = spawnPosition;
-            gameObject.transform.rotation = quaternion;
-            gameObject.SetActive(true);
-        }
 
+        if (_poolDictionary[tag].Count == 1)
+        {
+            GameObject addGameObject = Instantiate(_poolDictionary[tag].Peek(), transform.position, Quaternion.identity);
+            addGameObject.SetActive(false);
+            ObjectPool pool = Pools.Single(s => s.Tag == tag);
+            pool.Size++;
+            _poolDictionary[tag].Enqueue(addGameObject);
+                
+        }
+            
+        GameObject gameObject = _poolDictionary[tag].Dequeue();
+        gameObject.transform.position = spawnPosition;
+        gameObject.transform.rotation = quaternion;
+        gameObject.SetActive(true);
         return null;
     }
 

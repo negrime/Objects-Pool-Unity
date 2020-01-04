@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ContentModelStore">
     <e p="C:\Users\mihao\.Rider2019.1\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\mihao\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_ObjectsPool.1147240579.00" t="ExcludeRecursive" />
-    <e p="C:\Users\mihao\Desktop\ObjectsPool" t="IncludeRecursive">
+    <e p="C:\Users\mihao\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_ObjectsPool.-223887888.00" t="ExcludeRecursive" />
+    <e p="C:\Users\mihao\Desktop\Projects\git\Objects-Pool-Unity\ObjectsPool" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="Cube.cs" t="Include" />
